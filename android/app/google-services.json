@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868764135818",
+    "project_id": "realtimeposts",
+    "storage_bucket": "realtimeposts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868764135818:android:a0474886d4a395ee3f1873",
+        "android_client_info": {
+          "package_name": "com.example.posts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mGoujFNEzZgwpxAIqSspLaKC7Wi-dIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
